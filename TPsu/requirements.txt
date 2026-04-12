@@ -1,0 +1,5 @@
+osu.py[async,replay,notifications]
+python-dotenv
+discord.py
+maturin
+rosu-pp-py
